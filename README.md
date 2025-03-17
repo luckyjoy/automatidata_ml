@@ -1,7 +1,7 @@
 # Automatidata Machine Learning
 Build a Machine Learning Model for Automatidata
 
-### **Course 6 End-of-Course Project: Build a Machine Learning Model**
+### **Build a Machine Learning Model**
 
 #### **Objective:**
 Use tree-based modeling techniques to predict whether a customer is a generous tipper, with the goal of identifying factors that can help taxi cab drivers generate more revenue.
